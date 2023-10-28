@@ -1,7 +1,19 @@
-# Getting Started with Create React App
+## Pre-requirements 
+You should have node js and npm installed on your machine.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Steps
+### Start front-end app
+1- Clone or download the repo
+2- run npm `npm install`
+3- run npm start, the app will star on localhost:3000
+### Start back-end app
+1- CD to json-server folder
+2- run npm `npm install`
+3- run npm start, the app will star on localhost:8000
 
+---------------
+
+# More about React and how to start with it 
 ## Available Scripts
 
 In the project directory, you can run:
