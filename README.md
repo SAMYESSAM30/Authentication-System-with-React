@@ -4,12 +4,16 @@ You should have node js and npm installed on your machine.
 ## Steps
 ### Start front-end app
 1- Clone or download the repo
-2- run npm `npm install`
-3- run npm start, the app will star on localhost:3000
+
+2- run `npm install`
+
+3- run `npm start`, the app will star on localhost:3000
 ### Start back-end app
 1- CD to json-server folder
-2- run npm `npm install`
-3- run npm start, the app will star on localhost:8000
+
+2- run  `npm install`
+
+3- run `npm start`, the app will star on localhost:8000
 
 ---------------
 
